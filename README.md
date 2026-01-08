@@ -74,7 +74,7 @@ This predicts the house price for a property with:
 2000 square feet
 3 bedrooms
 2 bathrooms
-
+```
 ##🖥️ Deployment
 The trained model is integrated with Gradio, enabling an interactive interface where users can:
 Enter house details

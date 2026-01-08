@@ -76,41 +76,41 @@ This predicts the house price for a property with:
 2 bathrooms
 ```
 ## 🖥️ Deployment
-The trained model is integrated with Gradio, enabling an interactive interface where users can:
-Enter house details
-Receive predicted house prices in real time
-The interface was tested using Google Colab.
+- The trained model is integrated with Gradio, enabling an interactive interface where users can:
+- Enter house details
+- Receive predicted house prices in real time
+- The interface was tested using Google Colab.
 
 ---
 
 ## 🛠 Tools & Technologies
-Python
-Pandas, NumPy
-Scikit-learn
-Matplotlib
-Google Colab
-Gradio
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib
+- Google Colab
+- Gradio
 
 ---
 
 ## ▶️ How to Run the Project
-Open the notebook in Google Colab
-Upload the dataset files
-Run all cells sequentially
-Explore visualizations and evaluation results
-(Optional) Launch the Gradio interface for interactive predictions
+- Open the notebook in Google Colab
+- Upload the dataset files
+- Run all cells sequentially
+- Explore visualizations and evaluation results
+- (Optional) Launch the Gradio interface for interactive predictions
 
 ---
 
 ## 🔮 Future Improvements
-Add more predictive features (location, year built, condition)
-Try Polynomial or ElasticNet Regression
-Perform hyperparameter tuning
-Deploy as a full web application
+- Add more predictive features (location, year built, condition)
+- Try Polynomial or ElasticNet Regression
+- Perform hyperparameter tuning
+- Deploy as a full web application
 
 ---
 
-##👤 Author
-Sumanth Nallajonnala
-B.Tech – Information Technology
-SASTRA Deemed University
+## 👤 Author
+- Sumanth Nallajonnala
+- B.Tech – Information Technology
+  SASTRA Deemed University
